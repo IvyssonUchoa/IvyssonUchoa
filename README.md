@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ivysson Uchôa</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🎂 18 years old
+- 🎂 19 years old
 
 - 👨‍🎓 Studying Computer Engineering IFPB-CG.
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I'm currently learning **HTML and CSS**
 
 - 📫 How to reach me **ivysson2312@gmail.com**
 
