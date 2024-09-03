@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivysson Uchôa</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🎂 19 years old
+- 🎂 20 years old
 
 - 👨‍🎓 Studying Computer Engineering IFPB-CG.
 
