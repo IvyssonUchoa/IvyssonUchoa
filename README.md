@@ -1,13 +1,9 @@
-
-    <summary>📃 Resume</summary>
-    
-    ## 🏫 Educação
-    - 📚 **Técnico em Programação de Jogos Digitais** (2019 - 2020)
-    | **SENAI Prof. Stenio Lopes** - Campina Grande, Brasil
-    - 📚 **Bacharelado em Engenharia de Computação** (2021 --)
-    | **Instituto Federal da Paraíba** - Campina Grande, Brasil
-
   
+<h3>🏫 Educação</h3>
+<p>- 📚 <strong>Técnico em Programação de Jogos Digitais (2019 - 2020)</strong>| SENAI Prof. Stenio Lopes - Campina Grande, Brasil</p>
+<p>- 📚 <strong>Bacharelado em Engenharia de Computação (2021 --)</strong>| Instituto Federal da Paraíba - Campina Grande, Brasil</p>
+
+<hr>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyssonUchoa&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Ivysson's Top Langs" alt="Ivysson's Top Langs" />
   </p>
@@ -34,7 +30,8 @@
           </td>
     </tr>
   </table>
-  <br>
+  
+  <hr>
   <p align="center">
     <a href="https://www.linkedin.com/in/IvyssonUchoa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Ivysson's LinkedIn" alt="LinkedIn Badge" /></a>
     <a href="mailto:ivysson2312@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Ivysson's E-mail" alt="E-mail Badge" /></a>
