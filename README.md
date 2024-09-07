@@ -1,4 +1,4 @@
-<details>
+
     <summary>📃 Resume</summary>
     
     ## 🏫 Educação
@@ -6,7 +6,7 @@
     | **SENAI Prof. Stenio Lopes** - Campina Grande, Brasil
     - 📚 **Bacharelado em Engenharia de Computação** (2021 --)
     | **Instituto Federal da Paraíba** - Campina Grande, Brasil
-  </details>
+
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyssonUchoa&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Ivysson's Top Langs" alt="Ivysson's Top Langs" />
@@ -15,6 +15,7 @@
   <table align="center">
     <tr>    
         <td align="center">Linguagens:</td>
+        <td align="center">Conhecimento em:</td>
     </tr>
     <tr>
         <td align="left">
@@ -24,15 +25,7 @@
             <img align="center" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img align="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "36">
           </td>
-    </tr>
-  </table>
-<br>
-  <table align="center">
-    <tr>    
-        <td align="center">Conhecimento em:</td>
-    </tr>
-    <tr>
-          <td align="right">
+         <td align="right">
             <img align="center" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
             <img align="center" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
             <img align="center" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
