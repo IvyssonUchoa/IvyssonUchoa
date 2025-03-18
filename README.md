@@ -1,12 +1,16 @@
   
-<h3>🏫 Educação</h3>
-<p>- 📚 <strong>Técnico em Programação de Jogos Digitais (2019 - 2020)</strong>| SENAI Prof. Stenio Lopes - Campina Grande, Brasil</p>
-<p>- 📚 <strong>Bacharelado em Engenharia de Computação (2021 --)</strong>| Instituto Federal da Paraíba - Campina Grande, Brasil</p>
+<h2>Olá, meu nome é Ivysson Uchôa</h2>
+<p>- 📚 <strong>Sou Técnico em Programação de Jogos Digitais (2019 - 2020)</strong>| SENAI Prof. Stenio Lopes - Campina Grande, Brasil</p>
+<p>- 📚 <strong>Cursando Bacharelado em Engenharia de Computação (2021 --)</strong>| Instituto Federal da Paraíba - Campina Grande, Brasil</p>
 
 <hr>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyssonUchoa&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Ivysson's Top Langs" alt="Ivysson's Top Langs" />
-  </p>
+  <div align="center">
+    <a href="https://beacons.ai/IvyssonUchoa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvyssonUchoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyssonUchoa&layout=compact&langs_count=16&theme=dark"/>
+  </div>
+
+  </br>
   
   <table align="center">
     <tr>    
