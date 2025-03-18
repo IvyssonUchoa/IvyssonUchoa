@@ -1,7 +1,7 @@
   
 <h2>Olá, meu nome é Ivysson Uchôa</h2>
-<p>- 📚 <strong>Sou Técnico em Programação de Jogos Digitais (2019 - 2020)</strong>| SENAI Prof. Stenio Lopes - Campina Grande, Brasil</p>
-<p>- 📚 <strong>Cursando Bacharelado em Engenharia de Computação (2021 --)</strong>| Instituto Federal da Paraíba - Campina Grande, Brasil</p>
+<p>- 📚 <strong>Sou Técnico em Programação de Jogos Digitais (2019 - 2020)</strong> | SENAI Prof. Stenio Lopes - Campina Grande, Brasil</p>
+<p>- 📚 <strong>Cursando Engenharia de Computação (2021 - Atualmente)</strong> | Instituto Federal da Paraíba - Campina Grande, Brasil</p>
 
 <hr>
   <div align="center">
